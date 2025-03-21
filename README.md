@@ -32,6 +32,3 @@
     - `matplotlib` → For real-time frame display  
 
 ---
-
-## 📁 Project Structure
-
